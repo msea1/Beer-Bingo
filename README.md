@@ -1,0 +1,1 @@
+A collection of python code to port rating from Ratebeer to Untappd. 
